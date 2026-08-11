@@ -1,7 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://mizune1742.github.io/gallery-126fef",
-  "generatedAt": "2026-08-11T09:42:20.638582200+00:00",
+  "generatedAt": "2026-08-11T10:05:24.094942500+00:00",
   "libraryImages": [
     {
       "id": "8b9dbaaa",
@@ -30,6 +30,13 @@
       "fullsize": "full/ab81515c.jpg",
       "version": 1,
       "caption": "2026/02/28"
+    },
+    {
+      "id": "739282b6",
+      "thumbnail": "thumb/739282b6.jpg",
+      "fullsize": "full/739282b6.jpg",
+      "version": 1,
+      "caption": "2026/07/23"
     }
   ],
   "galleries": [
@@ -116,18 +123,171 @@
           "caption": "2026/06/23"
         },
         {
-          "id": "739282b6",
-          "thumbnail": "thumb/739282b6.jpg",
-          "fullsize": "full/739282b6.jpg",
-          "version": 1,
-          "caption": "2026/07/23"
-        },
-        {
           "id": "18a8fbc0",
           "thumbnail": "thumb/18a8fbc0.jpg",
           "fullsize": "full/18a8fbc0.jpg",
           "version": 1,
           "caption": "2026/08/08"
+        },
+        {
+          "id": "6da210ca",
+          "thumbnail": "thumb/6da210ca.jpg",
+          "fullsize": "full/6da210ca.jpg",
+          "version": 1,
+          "caption": "2026/07/12"
+        }
+      ]
+    },
+    {
+      "galleryId": "otonagumi",
+      "mode": "SlideShow",
+      "images": [
+        {
+          "id": "e5de7fc6",
+          "thumbnail": "thumb/e5de7fc6.jpg",
+          "fullsize": "full/e5de7fc6.jpg",
+          "version": 1,
+          "caption": "2026/04/30"
+        },
+        {
+          "id": "5b62d53a",
+          "thumbnail": "thumb/5b62d53a.jpg",
+          "fullsize": "full/5b62d53a.jpg",
+          "version": 1,
+          "caption": "2026/05/03"
+        },
+        {
+          "id": "e6c9458e",
+          "thumbnail": "thumb/e6c9458e.jpg",
+          "fullsize": "full/e6c9458e.jpg",
+          "version": 1,
+          "caption": "2026/05/31"
+        },
+        {
+          "id": "721826d4",
+          "thumbnail": "thumb/721826d4.jpg",
+          "fullsize": "full/721826d4.jpg",
+          "version": 1,
+          "caption": "2026/05/25"
+        },
+        {
+          "id": "e75338f1",
+          "thumbnail": "thumb/e75338f1.jpg",
+          "fullsize": "full/e75338f1.jpg",
+          "version": 1,
+          "caption": "2026/05/31"
+        },
+        {
+          "id": "591182c3",
+          "thumbnail": "thumb/591182c3.jpg",
+          "fullsize": "full/591182c3.jpg",
+          "version": 1,
+          "caption": "2026/05/26"
+        },
+        {
+          "id": "09487a2f",
+          "thumbnail": "thumb/09487a2f.jpg",
+          "fullsize": "full/09487a2f.jpg",
+          "version": 1,
+          "caption": "2026/05/26"
+        },
+        {
+          "id": "2ef84aa6",
+          "thumbnail": "thumb/2ef84aa6.jpg",
+          "fullsize": "full/2ef84aa6.jpg",
+          "version": 1,
+          "caption": "2026/05/31"
+        },
+        {
+          "id": "d59f85c2",
+          "thumbnail": "thumb/d59f85c2.jpg",
+          "fullsize": "full/d59f85c2.jpg",
+          "version": 1,
+          "caption": "2026/06/05"
+        },
+        {
+          "id": "453f1741",
+          "thumbnail": "thumb/453f1741.jpg",
+          "fullsize": "full/453f1741.jpg",
+          "version": 1,
+          "caption": "2026/06/05"
+        },
+        {
+          "id": "b21873da",
+          "thumbnail": "thumb/b21873da.jpg",
+          "fullsize": "full/b21873da.jpg",
+          "version": 1,
+          "caption": "2026/06/15"
+        },
+        {
+          "id": "be7f76e0",
+          "thumbnail": "thumb/be7f76e0.jpg",
+          "fullsize": "full/be7f76e0.jpg",
+          "version": 1,
+          "caption": "2026/06/28"
+        },
+        {
+          "id": "2c73d113",
+          "thumbnail": "thumb/2c73d113.jpg",
+          "fullsize": "full/2c73d113.jpg",
+          "version": 1,
+          "caption": "2026/06/28"
+        },
+        {
+          "id": "6818f8fd",
+          "thumbnail": "thumb/6818f8fd.jpg",
+          "fullsize": "full/6818f8fd.jpg",
+          "version": 1,
+          "caption": "2026/06/29"
+        },
+        {
+          "id": "a54deb89",
+          "thumbnail": "thumb/a54deb89.jpg",
+          "fullsize": "full/a54deb89.jpg",
+          "version": 1,
+          "caption": "2026/06/30"
+        },
+        {
+          "id": "f6885a4a",
+          "thumbnail": "thumb/f6885a4a.jpg",
+          "fullsize": "full/f6885a4a.jpg",
+          "version": 1,
+          "caption": "2026/07/07"
+        },
+        {
+          "id": "7410be6c",
+          "thumbnail": "thumb/7410be6c.jpg",
+          "fullsize": "full/7410be6c.jpg",
+          "version": 1,
+          "caption": "2026/07/19"
+        },
+        {
+          "id": "0e0138fa",
+          "thumbnail": "thumb/0e0138fa.jpg",
+          "fullsize": "full/0e0138fa.jpg",
+          "version": 1,
+          "caption": "2026/08/02"
+        },
+        {
+          "id": "678e1a9b",
+          "thumbnail": "thumb/678e1a9b.jpg",
+          "fullsize": "full/678e1a9b.jpg",
+          "version": 1,
+          "caption": "2026/08/02"
+        },
+        {
+          "id": "1faf7102",
+          "thumbnail": "thumb/1faf7102.jpg",
+          "fullsize": "full/1faf7102.jpg",
+          "version": 1,
+          "caption": "2026/08/02"
+        },
+        {
+          "id": "d0ea3508",
+          "thumbnail": "thumb/d0ea3508.jpg",
+          "fullsize": "full/d0ea3508.jpg",
+          "version": 1,
+          "caption": "2026/08/02"
         }
       ]
     }
