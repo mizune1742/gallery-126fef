@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "baseUrl": "https://mizune1742.github.io/gallery-126fef",
+  "generatedAt": "2026-08-11T09:42:20.638582200+00:00",
+  "libraryImages": [
+    {
+      "id": "8b9dbaaa",
+      "thumbnail": "thumb/8b9dbaaa.jpg",
+      "fullsize": "full/8b9dbaaa.jpg",
+      "version": 1,
+      "caption": "2026/03/31"
+    },
+    {
+      "id": "5476868d",
+      "thumbnail": "thumb/5476868d.jpg",
+      "fullsize": "full/5476868d.jpg",
+      "version": 1,
+      "caption": "2026/05/03"
+    },
+    {
+      "id": "892127aa",
+      "thumbnail": "thumb/892127aa.jpg",
+      "fullsize": "full/892127aa.jpg",
+      "version": 1,
+      "caption": "2026/04/27"
+    },
+    {
+      "id": "ab81515c",
+      "thumbnail": "thumb/ab81515c.jpg",
+      "fullsize": "full/ab81515c.jpg",
+      "version": 1,
+      "caption": "2026/02/28"
+    }
+  ],
+  "galleries": [
+    {
+      "galleryId": "2",
+      "displayName": "2月同期",
+      "mode": "SlideShow",
+      "images": [
+        {
+          "id": "3a015bc2",
+          "thumbnail": "thumb/3a015bc2.jpg",
+          "fullsize": "full/3a015bc2.jpg",
+          "version": 1,
+          "caption": "2026/06/03"
+        },
+        {
+          "id": "c3a88f63",
+          "thumbnail": "thumb/c3a88f63.jpg",
+          "fullsize": "full/c3a88f63.jpg",
+          "version": 1,
+          "caption": "2026/03/28"
+        },
+        {
+          "id": "beb981a8",
+          "thumbnail": "thumb/beb981a8.jpg",
+          "fullsize": "full/beb981a8.jpg",
+          "version": 1,
+          "caption": "2026/04/27"
+        },
+        {
+          "id": "6201c2a7",
+          "thumbnail": "thumb/6201c2a7.jpg",
+          "fullsize": "full/6201c2a7.jpg",
+          "version": 1,
+          "caption": "2026/05/03"
+        },
+        {
+          "id": "252c253c",
+          "thumbnail": "thumb/252c253c.jpg",
+          "fullsize": "full/252c253c.jpg",
+          "version": 1,
+          "caption": "2026/05/03"
+        },
+        {
+          "id": "9ef5325b",
+          "thumbnail": "thumb/9ef5325b.jpg",
+          "fullsize": "full/9ef5325b.jpg",
+          "version": 1,
+          "caption": "2026/05/31"
+        },
+        {
+          "id": "c88e7a23",
+          "thumbnail": "thumb/c88e7a23.jpg",
+          "fullsize": "full/c88e7a23.jpg",
+          "version": 1,
+          "caption": "2026/05/13"
+        },
+        {
+          "id": "aff10a0b",
+          "thumbnail": "thumb/aff10a0b.jpg",
+          "fullsize": "full/aff10a0b.jpg",
+          "version": 1,
+          "caption": "2026/06/01"
+        },
+        {
+          "id": "d3c8b1f6",
+          "thumbnail": "thumb/d3c8b1f6.jpg",
+          "fullsize": "full/d3c8b1f6.jpg",
+          "version": 1,
+          "caption": "2026/06/03"
+        },
+        {
+          "id": "da114367",
+          "thumbnail": "thumb/da114367.jpg",
+          "fullsize": "full/da114367.jpg",
+          "version": 1,
+          "caption": "2026/06/15"
+        },
+        {
+          "id": "24dcbfc2",
+          "thumbnail": "thumb/24dcbfc2.jpg",
+          "fullsize": "full/24dcbfc2.jpg",
+          "version": 1,
+          "caption": "2026/06/23"
+        },
+        {
+          "id": "739282b6",
+          "thumbnail": "thumb/739282b6.jpg",
+          "fullsize": "full/739282b6.jpg",
+          "version": 1,
+          "caption": "2026/07/23"
+        },
+        {
+          "id": "18a8fbc0",
+          "thumbnail": "thumb/18a8fbc0.jpg",
+          "fullsize": "full/18a8fbc0.jpg",
+          "version": 1,
+          "caption": "2026/08/08"
+        }
+      ]
+    }
+  ],
+  "githubRepo": "mizune1742/gallery-126fef"
+}
